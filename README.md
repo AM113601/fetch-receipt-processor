@@ -36,7 +36,7 @@ Date/time/price is properly formatted with no invalid dates (eg. 2024-02-59) or 
 
 A time is right on 2pm/4pm: 2pm is considered within the time frame, 4pm is not.
 
-I did my testing using Postman, sending the example jsons (and creating my own tests).
+I did my rest api testing using Postman, sending the example jsons (and creating my own tests).
 An alternative is to use curl.
 
 
