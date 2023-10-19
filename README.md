@@ -1,4 +1,4 @@
-# fetch-backend-exercise
+# fetch-receipt-processor
 Fetch backend exercise for a receipt processor written by Albert Men.
 
 # Installation
